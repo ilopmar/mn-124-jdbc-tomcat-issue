@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: jdbc.tomcat.pool
+---
+testFramework: spock
+sourceLanguage: java
