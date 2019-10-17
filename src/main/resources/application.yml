@@ -16,7 +16,4 @@ jpa:
       hibernate:
         hbm2ddl:
           auto: update
-
-
----
-datasources.default: {}
+        show_sql: true
